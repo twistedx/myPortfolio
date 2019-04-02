@@ -148,3 +148,6 @@ html, body{
 .hireMe > .active {
     background-color: #717171;
 }
+.borderB {
+    border-bottom: 1px solid #777;
+}
